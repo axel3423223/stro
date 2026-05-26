@@ -8,7 +8,7 @@
   "url_version": "https://pelisfreeplus.online/data/version.json",
   "url_version_mobile": "https://pelisfreeplus.online/data/version_mobile.json",
   "epg_urls": "https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml,https://www.open-epg.com/files/argentina4.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz",
-   
+  
   "max_sessions": "3",
   "max_sessions_mobile": "1",
   "session_check_interval": "300000",
@@ -16,13 +16,19 @@
   "force_refresh_timestamp": "0",
 
   "trending_title": "🎬NUEVOS ESTRENOS",
-  "trending_content": "El encargado, Ápex, Te Van A Matar, Bolas arriba, La Casa de los Espiritus, BTS: EL COMEBACK EN VIVO | ARIRANG, El Guardián: Último refugio, Cortafuego",
+  "trending_content": "Berlín y la dama del armiño, Jack Ryan de Tom Clancy: Guerra fantasma, The Punisher: La última muerte, Ápex, Te Van A Matar, Bolas arriba, La Casa de los Espiritus",
 
   "ad_mini_player_url": "https://pelisfreeplus.online/data/mundial26.jpg",
   "ad_title": "Mundial 2026",
   "ad_subtitle": "Proximamente",
   "ad_action_type": "channel",
   "ad_action_value": "DSPORTS ARG (NUEVO)",
+
+  "ad_mini_player_url_2": "https://i.ibb.co/SwRnFZzy/f1banner-app.jpg",
+  "ad_title_2": "Toda la F1 en vivo",
+  "ad_subtitle_2": "No te lo pierdas en la agenda",
+  "ad_action_type_2": "channel",
+  "ad_action_value_2": "Aun no es el dia",
 
   "cat_map_deportes": "deportes, sports, espn, fox sports, tyc, dazn, fútbol",
   "cat_map_cine": "cine, películas, movies, series, hbo, star, cinema",
