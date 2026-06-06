@@ -1,1 +1,42 @@
+{
+  "url_channels": "https://pelisfreeplus.online/data/canatv.json",
+  "url_movies": "https://pelisfreeplus.online/data/peliculas.json",
+  "url_series": "https://pelisfreeplus.online/data/series.json",
+  "url_agenda": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/refs/heads/main/agenda.json",
+  "url_users": "http://pelisfreeplus.online/user/u.json",
+  "url_banner": "https://pelisfreeplus.online/data/banner_prin.json",
+  "url_version": "https://pelisfreeplus.online/data/version.json",
+  "url_version_mobile": "https://pelisfreeplus.online/data/version_mobile.json",
+  "epg_urls": "https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml,https://www.open-epg.com/files/argentina4.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz",
+  
+  "max_sessions": "3",
+  "max_sessions_mobile": "1",
+  "session_check_interval": "300000",
+  "session_timeout": "1800000",
+  "force_refresh_timestamp": "0",
 
+  "trending_title": "🎬NUEVOS ESTRENOS",
+  "trending_content": "Berlín y la dama del armiño, Jack Ryan de Tom Clancy: Guerra fantasma, The Punisher: La última muerte, Ápex, Te Van A Matar, Bolas arriba, La Casa de los Espiritus",
+
+  "ad_mini_player_url": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/refs/heads/main/mundial21.jpg",
+  "ad_title": "Mundial 2026",
+  "ad_subtitle": "Proximamente",
+  "ad_action_type": "channel",
+  "ad_action_value": "DSPORTS ARG (NUEVO)",
+
+  "ad_mini_player_url_2": "https://i.ibb.co/SwRnFZzy/f1banner-app.jpg",
+  "ad_title_2": "Toda la F1 en vivo",
+  "ad_subtitle_2": "No te lo pierdas en la agenda",
+  "ad_action_type_2": "channel",
+  "ad_action_value_2": "Aun no es el dia",
+
+  "cat_map_deportes": "deportes, sports, espn, fox sports, tyc, dazn, fútbol",
+  "cat_map_cine": "cine, películas, movies, series, hbo, star, cinema",
+  "cat_map_noticias": "noticias, news, información, periodismo",
+  "cat_map_infantil": "infantil, kids, disney, niños, dibujos",
+  "cat_map_abierta": "abierta, aire, argentina, general, uruguay",
+  "cat_map_musica": "musica, music, mtv, vh1, vibe, htv, vclassic",
+  "cat_map_premium": "premium, hbo, pack, vips, universal",
+  "cat_map_cultura": "documentales, cultura, history, discovery, natgeo",
+  "cat_map_internacional": "internacional,international,mundo,global,world"
+}
