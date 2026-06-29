@@ -1,0 +1,200 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 timeshift="1" tvg-id="76d4905a7aad3cccddfe4cdb439152d3" tvg-name="America TV HD" tvg-logo="http://10.1.87.3:80/images/ba317b1243d0a63d60661cbe6e4549a1.png" group-title="Aire",America TV HD
+http://10.1.87.3:80/tvh/tvh/650.ts
+#EXTINF:-1 timeshift="1" tvg-id="c0acba71fa255b28565e917ec90a7eef" tvg-name="TV Publica HD" tvg-logo="http://10.1.87.3:80/images/6a0ad5393ffb39e54db830c8c40ce108.png" group-title="Aire",TV Publica HD
+http://10.1.87.3:80/tvh/tvh/775.ts
+#EXTINF:-1 timeshift="1" tvg-id="d61290b47ff90b980c1a15d94c6a8183" tvg-name="el nueve HD" tvg-logo="http://10.1.87.3:80/images/9cc61507de91b7e195073da470eb6ec7.png" group-title="Aire",el nueve HD
+http://10.1.87.3:80/tvh/tvh/683.ts
+#EXTINF:-1 timeshift="1" tvg-id="f7802763f6ed53e9346177bb43fc41df" tvg-name="Telefe HD" tvg-logo="http://10.1.87.3:80/images/7e835d4ac93ccc37eaf65b96cefb197b.png" group-title="Aire",Telefe HD
+http://10.1.87.3:80/tvh/tvh/760.ts
+#EXTINF:-1 timeshift="1" tvg-id="cc913507147e69a6ed2c8e345d3c1bae" tvg-name="el trece HD" tvg-logo="http://10.1.87.3:80/images/2a1e0f310fab3361200e312acfdedb89.png" group-title="Aire",el trece HD
+http://10.1.87.3:80/tvh/tvh/685.ts
+#EXTINF:-1 timeshift="1" tvg-id="b71051e3d0fe7a12840ec6c13a701357" tvg-name="A24 HD" tvg-logo="http://10.1.87.3:80/images/fb51bcfe82b3adb272dd1a7d2b34ef18.png" group-title="Noticias",A24 HD
+http://10.1.87.3:80/tvh/tvh/646.ts
+#EXTINF:-1 timeshift="1" tvg-id="bf32e2b8bb49ed3e735cd4532e2e0ccd" tvg-name="26TV HD" tvg-logo="http://10.1.87.3:80/images/0bded3a2fcd70bf4fc805b5874712d7d.png" group-title="Noticias",26TV HD
+http://10.1.87.3:80/tvh/tvh/643.ts
+#EXTINF:-1 timeshift="1" tvg-id="85fe27be0521f90923623cc44424f10f" tvg-name="C5N" tvg-logo="http://10.1.87.3:80/images/68c59e317212ff82c9430435b3523e69.png" group-title="Noticias",C5N
+http://10.1.87.3:80/tvh/tvh/654.ts
+#EXTINF:-1 timeshift="1" tvg-id="f2eb4ec2abef7e176d62d6ccf1acd800" tvg-name="CNN en Español" tvg-logo="http://10.1.87.3:80/images/9aae83f45eb382130ca0d9318da78327.png" group-title="Noticias",CNN en Español
+http://10.1.87.3:80/tvh/tvh/664.ts
+#EXTINF:-1 timeshift="1" tvg-id="3e1fe3a0938ca47d1e22b4c50f8626ab" tvg-name="Crónica HD" tvg-logo="http://10.1.87.3:80/images/62377fc207bdce9dc50d3624c87cbdb7.png" group-title="Noticias",Crónica HD
+http://10.1.87.3:80/tvh/tvh/665.ts
+#EXTINF:-1 timeshift="1" tvg-id="b3f0ccd3cb3be7596baedea5061316eb" tvg-name="TN HD" tvg-logo="http://10.1.87.3:80/images/edfc4c15d81b0157912cdcb65580345c.png" group-title="Noticias",TN HD
+http://10.1.87.3:80/tvh/tvh/764.ts
+#EXTINF:-1 timeshift="1" tvg-id="3b514f6eb4b178a2fc1f21bcd6e323ac" tvg-name="La Nacion TV HD" tvg-logo="http://10.1.87.3:80/images/0295571e07b90498e9bda0620a951d80.png" group-title="Noticias",La Nacion TV HD
+http://10.1.87.3:80/tvh/tvh/733.ts
+#EXTINF:-1 timeshift="1" tvg-id="Argentina12.ar" tvg-name="Argentina 12" tvg-logo="http://10.1.87.3:80/images/b39d637220c1f55cf8f79d0cca727298.jpg" group-title="Noticias",Argentina 12
+http://10.1.87.3:80/tvh/tvh/794.ts
+#EXTINF:-1 timeshift="1" tvg-id="cbcbfd7c02f0fecc292b9bbd38984c0d" tvg-name="Baby TV" tvg-logo="http://10.1.87.3:80/images/737dae64ed1043f862454111ee651cac.png" group-title="Infantil",Baby TV
+http://10.1.87.3:80/tvh/tvh/653.ts
+#EXTINF:-1 timeshift="1" tvg-id="9dfad292c0adf7e3e88c26c102c0aee6" tvg-name="Cartoon Network HD" tvg-logo="http://10.1.87.3:80/images/f0a7fd017be1114baa97a8fa2bbc3482.png" group-title="Infantil",Cartoon Network HD
+http://10.1.87.3:80/tvh/tvh/657.ts
+#EXTINF:-1 timeshift="1" tvg-id="c4a631efa7ee59054c904682e5006d25" tvg-name="Disney Channel HD" tvg-logo="http://10.1.87.3:80/images/984a116b2f450fe832216d6944295736.png" group-title="Infantil",Disney Channel HD
+http://10.1.87.3:80/tvh/tvh/678.ts
+#EXTINF:-1 timeshift="1" tvg-id="6179c436dc7a583beb7c73396fe95a5e" tvg-name="Disney Junior" tvg-logo="http://10.1.87.3:80/images/072243c60eac219b9fe1141b42b4b12f.png" group-title="Infantil",Disney Junior
+http://10.1.87.3:80/tvh/tvh/679.ts
+#EXTINF:-1 timeshift="1" tvg-id="7b00f32ba66f1b5434d7cfa3e96ea8f2" tvg-name="Nick Jr" tvg-logo="http://10.1.87.3:80/images/fd0b5b25b1b5558b88fb27a0fe2fbb60.png" group-title="Infantil",Nick Jr
+http://10.1.87.3:80/tvh/tvh/740.ts
+#EXTINF:-1 timeshift="1" tvg-id="9dae87cf10c39d6edd7379cf5ed63bc7" tvg-name="Nickelodeon" tvg-logo="http://10.1.87.3:80/images/1c63fcbe6244ac36494bf8927db61477.png" group-title="Infantil",Nickelodeon
+http://10.1.87.3:80/tvh/tvh/741.ts
+#EXTINF:-1 timeshift="1" tvg-id="46c030d500e95bb6e6cbd958c12e2e78" tvg-name="Pakapaka" tvg-logo="http://10.1.87.3:80/images/34d020bdf1cd5f84317cf36f7a44a2e4.png" group-title="Infantil",Pakapaka
+http://10.1.87.3:80/tvh/tvh/742.ts
+#EXTINF:-1 timeshift="1" tvg-id="5f0c513dc6281e7f6ebf7ccdcde70c35" tvg-name="ESPN HD" tvg-logo="http://10.1.87.3:80/images/8a263672cefc5ac7c4c3669d76cbb401.png" group-title="Deportes",ESPN HD
+http://10.1.87.3:80/tvh/tvh/699.ts
+#EXTINF:-1 timeshift="1" tvg-id="6261a6d57e8dd5a820c4440cc2a042f6" tvg-name="ESPN 2 HD" tvg-logo="http://10.1.87.3:80/images/12374bf25a17ee6ba4c74ef03ed2cbdd.png" group-title="Deportes",ESPN 2 HD
+http://10.1.87.3:80/tvh/tvh/694.ts
+#EXTINF:-1 timeshift="1" tvg-id="478f48743474ba5594e84d6bf541818d" tvg-name="ESPN 3 HD" tvg-logo="http://10.1.87.3:80/images/5b81f8be769611fab7bca61f905a2c85.png" group-title="Deportes",ESPN 3 HD
+http://10.1.87.3:80/tvh/tvh/696.ts
+#EXTINF:-1 timeshift="1" tvg-id="6f28bd00d0a82c8118119de619e61fb7" tvg-name="ESPN 4 HD" tvg-logo="http://10.1.87.3:80/images/952f4b69d4cda93954fee2e8d20d94fa.png" group-title="Deportes",ESPN 4 HD
+http://10.1.87.3:80/tvh/tvh/697.ts
+#EXTINF:-1 timeshift="1" tvg-id="fefa11b2747f6b1b5431aedac1a0b008" tvg-name="ESPN Premium HD" tvg-logo="http://10.1.87.3:80/images/53b3794dcb2be4c7e1715e213e434fac.png" group-title="Deportes",ESPN Premium HD
+http://10.1.87.3:80/tvh/tvh/700.ts
+#EXTINF:-1 timeshift="1" tvg-id="8b8e1a795f1e3b9e28e7dc46c3affdad" tvg-name="Eventos HD" tvg-logo="" group-title="Deportes",Eventos HD
+http://10.1.87.3:80/tvh/tvh/703.ts
+#EXTINF:-1 timeshift="1" tvg-id="8fad0ffe8fee886acdaffbc135c55240" tvg-name="TNT Sports HD" tvg-logo="http://10.1.87.3:80/images/9f27721c5adba678bb39a3f4e0f3821c.png" group-title="Deportes",TNT Sports HD
+http://10.1.87.3:80/tvh/tvh/769.ts
+#EXTINF:-1 timeshift="1" tvg-id="251afc83ac6bf6e9281c4462d22f251f" tvg-name="TyC Sports HD" tvg-logo="http://10.1.87.3:80/images/1dc52799001c843c9acb4aed2e5665be.png" group-title="Deportes",TyC Sports HD
+http://10.1.87.3:80/tvh/tvh/778.ts
+#EXTINF:-1 timeshift="1" tvg-id="0e0841a19f89108e475e3b425957a8b8" tvg-name="AM Sports" tvg-logo="http://10.1.87.3:80/images/9ac2735ee16c4e7bae88cb314dbebaa6.png" group-title="Deportes",AM Sports
+http://10.1.87.3:80/tvh/tvh/647.ts
+#EXTINF:-1 timeshift="1" tvg-id="4d1a4ae1e33d19c98d21943f8783b7bb" tvg-name="DeporTV" tvg-logo="http://10.1.87.3:80/images/f3bf617f97f8930c8c8cd9c0f3193fb4.png" group-title="Deportes",DeporTV
+http://10.1.87.3:80/tvh/tvh/666.ts
+#EXTINF:-1 timeshift="1" tvg-id="e271cfd3f6f5c9a4c6e5e258a7a04c6b" tvg-name="Fox Sports HD" tvg-logo="http://10.1.87.3:80/images/51cb8ddd2d35ea7808ace57882fecfa5.png" group-title="Deportes",Fox Sports HD
+http://10.1.87.3:80/tvh/tvh/716.ts
+#EXTINF:-1 timeshift="1" tvg-id="c3732bd43acbae2dba3ff0cf0b96c3e4" tvg-name="Fox Sports 2 HD" tvg-logo="http://10.1.87.3:80/images/c424571af2cf420f4331c6ac81394bb4.png" group-title="Deportes",Fox Sports 2 HD
+http://10.1.87.3:80/tvh/tvh/710.ts
+#EXTINF:-1 timeshift="1" tvg-id="506a74ba9efd3be5bab47a02ce691a4c" tvg-name="Fox Sports 3 HD" tvg-logo="http://10.1.87.3:80/images/7d1b9b43075e8c223164acc2c8c01503.png" group-title="Deportes",Fox Sports 3 HD
+http://10.1.87.3:80/tvh/tvh/714.ts
+#EXTINF:-1 timeshift="1" tvg-id="DSports.ar" tvg-name="DSPORTS" tvg-logo="http://10.1.87.3:80/images/c9122eceef97e27eaf992efd740783d8.png" group-title="Deportes",DSPORTS
+http://10.1.87.3:80/tvh/tvh/827.ts
+#EXTINF:-1 timeshift="1" tvg-id="DSports2.ar" tvg-name="DSPORTS 2" tvg-logo="http://10.1.87.3:80/images/fa54544aadc7b2d30863f19dac08e18a.png" group-title="Deportes",DSPORTS 2
+http://10.1.87.3:80/tvh/tvh/828.ts
+#EXTINF:-1 timeshift="1" tvg-id="4f7cfc5f8a6769d3a76390ec83a32816" tvg-name="Discovery Channel HD" tvg-logo="http://10.1.87.3:80/images/cc75dba5a0b8052ebb931fe594bbcd1f.png" group-title="Documentales",Discovery Channel HD
+http://10.1.87.3:80/tvh/tvh/668.ts
+#EXTINF:-1 timeshift="1" tvg-id="50d11485872eb89a8d92cc2d3025fca1" tvg-name="Discovery H&H HD" tvg-logo="http://10.1.87.3:80/images/b154661e5c274c9b6af8dbbe7b156fa5.png" group-title="Documentales",Discovery H&H HD
+http://10.1.87.3:80/tvh/tvh/670.ts
+#EXTINF:-1 timeshift="1" tvg-id="e394f551aed44c884d08eb1a8175743d" tvg-name="Discovery Kids HD" tvg-logo="http://10.1.87.3:80/images/14fb8b1e06e1130393b6941d965782bc.png" group-title="Infantil",Discovery Kids HD
+http://10.1.87.3:80/tvh/tvh/671.ts
+#EXTINF:-1 timeshift="1" tvg-id="8cc98c7d4c588f31948a11b87d472562" tvg-name="Discovery Science" tvg-logo="http://10.1.87.3:80/images/5ff47dc9f1333a1a410fe4789d945c9e.png" group-title="Documentales",Discovery Science
+http://10.1.87.3:80/tvh/tvh/673.ts
+#EXTINF:-1 timeshift="1" tvg-id="4ea3368c7ff43ef826bea5579b989e69" tvg-name="Discovery Theater HD" tvg-logo="http://10.1.87.3:80/images/4c0492b38d594c1ed215fbca7e412250.png" group-title="Documentales",Discovery Theater HD
+http://10.1.87.3:80/tvh/tvh/674.ts
+#EXTINF:-1 timeshift="1" tvg-id="f02470f83a14725020918982e39db76d" tvg-name="Discovery Turbo" tvg-logo="http://10.1.87.3:80/images/2d36f1e50a94d419195b93459bc37cb2.png" group-title="Documentales",Discovery Turbo
+http://10.1.87.3:80/tvh/tvh/675.ts
+#EXTINF:-1 timeshift="1" tvg-id="038cb13f4b6387ff7dd60439b91ea678" tvg-name="Discovery World HD" tvg-logo="http://10.1.87.3:80/images/aa6bdd453025d56a036775d18b8d8d62.png" group-title="Documentales",Discovery World HD
+http://10.1.87.3:80/tvh/tvh/676.ts
+#EXTINF:-1 timeshift="1" tvg-id="5cb4743ad1edeade430aed6653fe89d5" tvg-name="The History Channel HD" tvg-logo="http://10.1.87.3:80/images/c301e449bcb6c1fa8cdabad918d6a74f.png" group-title="Documentales",The History Channel HD
+http://10.1.87.3:80/tvh/tvh/762.ts
+#EXTINF:-1 timeshift="1" tvg-id="b1804208f0ded2763f68220a2dc9b4ea" tvg-name="History 2" tvg-logo="http://10.1.87.3:80/images/34027ce57cd55c273e63b1dc06dd9fa7.png" group-title="Documentales",History 2
+http://10.1.87.3:80/tvh/tvh/727.ts
+#EXTINF:-1 timeshift="1" tvg-id="d5960731692300059ba5fc3c41f60484" tvg-name="Nat Geo HD" tvg-logo="http://10.1.87.3:80/images/a5a16770f48e5c5cb5c7412dbe518399.png" group-title="Documentales",Nat Geo HD
+http://10.1.87.3:80/tvh/tvh/739.ts
+#EXTINF:-1 timeshift="1" tvg-id="889c0781b143492fa94edfb919ee6ef1" tvg-name="Film & Arts HD" tvg-logo="http://10.1.87.3:80/images/b0518eea5fd42c79d2c75d207cb9d06c.png" group-title="Documentales",Film & Arts HD
+http://10.1.87.3:80/tvh/tvh/706.ts
+#EXTINF:-1 timeshift="1" tvg-id="c318cdac087547295a5ad85a2389bfa6" tvg-name="HGTV" tvg-logo="http://10.1.87.3:80/images/4a7cfa994af5952a0ac8079920ec0e30.png" group-title="Documentales",HGTV
+http://10.1.87.3:80/tvh/tvh/726.ts
+#EXTINF:-1 timeshift="1" tvg-id="6654fdb7d8950c7f7f4599ec2b567fab" tvg-name="A&E HD" tvg-logo="http://10.1.87.3:80/images/99c72d95a86eff2ae1aa0246e6e5833b.png" group-title="Peliculas y Series",A&E HD
+http://10.1.87.3:80/tvh/tvh/645.ts
+#EXTINF:-1 timeshift="1" tvg-id="73ceaa3bbf4e2ebb85ac9be3bf208459" tvg-name="AMC" tvg-logo="http://10.1.87.3:80/images/68271f533c2ea1941772cdb2982b152d.png" group-title="Peliculas y Series",AMC
+http://10.1.87.3:80/tvh/tvh/648.ts
+#EXTINF:-1 timeshift="1" tvg-id="321bc91d8082c8ada46987c53d1607f5" tvg-name="AXN HD" tvg-logo="http://10.1.87.3:80/images/24507a9c593a56cc3ec6315e61b49fee.png" group-title="Peliculas y Series",AXN HD
+http://10.1.87.3:80/tvh/tvh/652.ts
+#EXTINF:-1 timeshift="1" tvg-id="37dc9915d787bd132a16d2a4a55e0159" tvg-name="Cine.AR" tvg-logo="http://10.1.87.3:80/images/c908b7884ea4e6556bd384e612562493.png" group-title="Peliculas y Series",Cine.AR
+http://10.1.87.3:80/tvh/tvh/659.ts
+#EXTINF:-1 timeshift="1" tvg-id="30de07076c45ce609b76b30077d0254c" tvg-name="Cinecanal HD" tvg-logo="http://10.1.87.3:80/images/29600f36ff030b0ffc8d0d2031669064.png" group-title="Peliculas y Series",Cinecanal HD
+http://10.1.87.3:80/tvh/tvh/661.ts
+#EXTINF:-1 timeshift="1" tvg-id="e8c6c6830aacc44cd2a4ab9d068cd254" tvg-name="Cinemax" tvg-logo="http://10.1.87.3:80/images/d3cde1f9ba49ce128c28de93342804f7.png" group-title="Peliculas y Series",Cinemax
+http://10.1.87.3:80/tvh/tvh/662.ts
+#EXTINF:-1 timeshift="1" tvg-id="3c1740fb0807118cd4d94bc4cb79fa32" tvg-name="FX HD" tvg-logo="http://10.1.87.3:80/images/2e732bc3793c8c42e07ad246c44795d2.png" group-title="Peliculas y Series",FX HD
+http://10.1.87.3:80/tvh/tvh/718.ts
+#EXTINF:-1 timeshift="1" tvg-id="b74b6058c56ff6acb2ab9cdf93807b06" tvg-name="HBO" tvg-logo="http://10.1.87.3:80/images/04204fd4b50c90c84e75a5a04acb89e5.png" group-title="Peliculas y Series",HBO
+http://10.1.87.3:80/tvh/tvh/721.ts
+#EXTINF:-1 timeshift="1" tvg-id="6a0ebe3bc3b9aa9c170752e7cd98b044" tvg-name="HBO 2" tvg-logo="http://10.1.87.3:80/images/800153c251885319420043c0fa218f08.png" group-title="Peliculas y Series",HBO 2
+http://10.1.87.3:80/tvh/tvh/722.ts
+#EXTINF:-1 timeshift="1" tvg-id="5947d033e410429dd62262bd40cb1cec" tvg-name="HBO Family" tvg-logo="http://10.1.87.3:80/images/8a9f7c489740356702152fab5aa5519c.png" group-title="Peliculas y Series",HBO Family
+http://10.1.87.3:80/tvh/tvh/723.ts
+#EXTINF:-1 timeshift="1" tvg-id="3528da314ce75f46169b0f26a59dc2e2" tvg-name="HBO Plus" tvg-logo="http://10.1.87.3:80/images/5f66fc7043b8afa54fcccf8c4e4682dd.png" group-title="Peliculas y Series",HBO Plus
+http://10.1.87.3:80/tvh/tvh/724.ts
+#EXTINF:-1 timeshift="1" tvg-id="65b82bca98f1b580fd182f13db3e1b03" tvg-name="HBO POP" tvg-logo="http://10.1.87.3:80/images/820e05fe4efe52d18de4cfa0e34d7d71.png" group-title="Peliculas y Series",HBO POP
+http://10.1.87.3:80/tvh/tvh/725.ts
+#EXTINF:-1 timeshift="1" tvg-id="ec280d03ecfd7ca34c8896a4da41b5ac" tvg-name="HBO Mundi" tvg-logo="http://10.1.87.3:80/images/522b95308b8b6beb6ae8c821b59537a8.png" group-title="Peliculas y Series",HBO Mundi
+http://10.1.87.3:80/tvh/tvh/791.ts
+#EXTINF:-1 timeshift="1" tvg-id="fdb13fb593b9a72647de4f724b7a9bbd" tvg-name="HBO Signature" tvg-logo="http://10.1.87.3:80/images/4d894552c470080f1f9c009180f941c3.png" group-title="Peliculas y Series",HBO Signature
+http://10.1.87.3:80/tvh/tvh/792.ts
+#EXTINF:-1 timeshift="1" tvg-id="19e99269031a114142c40dd14978f8f3" tvg-name="HBO Xtreme" tvg-logo="http://10.1.87.3:80/images/7ca887f77442e476761355b87f5f1cf9.png" group-title="Peliculas y Series",HBO Xtreme
+http://10.1.87.3:80/tvh/tvh/793.ts
+#EXTINF:-1 timeshift="1" tvg-id="1a0395bbca13c0f0c1ab4f8f2123ea31" tvg-name="Comedy Central HD" tvg-logo="http://10.1.87.3:80/images/368ee045a76d8af7a0efa688e40838ed.png" group-title="Peliculas y Series",Comedy Central HD
+http://10.1.87.3:80/tvh/tvh/789.ts
+#EXTINF:-1 timeshift="1" tvg-id="52f85cbec91e06e70cf3274914f5bd53" tvg-name="Sony HD" tvg-logo="http://10.1.87.3:80/images/8e3069778a99d85b27107ea5fe7fea70.png" group-title="Peliculas y Series",Sony HD
+http://10.1.87.3:80/tvh/tvh/748.ts
+#EXTINF:-1 timeshift="1" tvg-id="Telemundo.ar" tvg-name="Telemundo HD" tvg-logo="http://10.1.87.3:80/images/2b41ad2a7fc95801c0b982011f7e03a8.png" group-title="Peliculas y Series",Telemundo HD
+http://10.1.87.3:80/tvh/tvh/729.ts
+#EXTINF:-1 timeshift="1" tvg-id="5c5e9c7b732b6e7a9ac63e4426290cef" tvg-name="Sony Movies HD" tvg-logo="http://10.1.87.3:80/images/cafa4d13b9aaff2a9e5e32b41e50f874.png" group-title="Peliculas y Series",Sony Movies HD
+http://10.1.87.3:80/tvh/tvh/749.ts
+#EXTINF:-1 timeshift="1" tvg-id="04e6494b627ba63a97798ace454d860b" tvg-name="Space HD" tvg-logo="http://10.1.87.3:80/images/aaf9e6d6325594b7f4cbdde0e24b2e1e.png" group-title="Peliculas y Series",Space HD
+http://10.1.87.3:80/tvh/tvh/751.ts
+#EXTINF:-1 timeshift="1" tvg-id="1cb9e678bf8592ac05b945f4eab406eb" tvg-name="Star Channel HD" tvg-logo="http://10.1.87.3:80/images/5f3f49868d5c3c4f5ea59f917d3e8e23.png" group-title="Peliculas y Series",Star Channel HD
+http://10.1.87.3:80/tvh/tvh/753.ts
+#EXTINF:-1 timeshift="1" tvg-id="f1295358acb74d96378942122b83f969" tvg-name="Studio Universal" tvg-logo="http://10.1.87.3:80/images/13a378055ed7159ca7c10c2abc1e976e.png" group-title="Peliculas y Series",Studio Universal
+http://10.1.87.3:80/tvh/tvh/754.ts
+#EXTINF:-1 timeshift="1" tvg-id="c5bd540cb0913d575bed902134aae5e2" tvg-name="USA Network" tvg-logo="http://10.1.87.3:80/images/85470b41c4778a801cfc1c17387e9fd7.png" group-title="Peliculas y Series",USA Network
+http://10.1.87.3:80/tvh/tvh/755.ts
+#EXTINF:-1 timeshift="1" tvg-id="8119f24954f6e4c2e84dec6def810ec3" tvg-name="TNT Novelas" tvg-logo="http://10.1.87.3:80/images/976fb277c585a6020302e83879b5ed83.png" group-title="Peliculas y Series",TNT Novelas
+http://10.1.87.3:80/tvh/tvh/757.ts
+#EXTINF:-1 timeshift="1" tvg-id="438d04db5a10a2ac9f91677c5ac20335" tvg-name="TCM" tvg-logo="http://10.1.87.3:80/images/94f68ad1468ebfc8d0effa90f6a4f4c0.png" group-title="Peliculas y Series",TCM
+http://10.1.87.3:80/tvh/tvh/758.ts
+#EXTINF:-1 timeshift="1" tvg-id="42da25103eff51c82c11715f6995ad76" tvg-name="TNT HD" tvg-logo="http://10.1.87.3:80/images/eca105f548690a061aa8e2beb22a0b63.png" group-title="Peliculas y Series",TNT HD
+http://10.1.87.3:80/tvh/tvh/766.ts
+#EXTINF:-1 timeshift="1" tvg-id="ed2005508da5f274fdba56f941a95873" tvg-name="Volver" tvg-logo="http://10.1.87.3:80/images/844788e5debe1b2a08aecf5a26cddac3.png" group-title="Peliculas y Series",Volver
+http://10.1.87.3:80/tvh/tvh/783.ts
+#EXTINF:-1 timeshift="1" tvg-id="772af4479ff2a604ccb6a4b6626268df" tvg-name="Universal HD" tvg-logo="http://10.1.87.3:80/images/8e8ae6cf26de1e68277876bb1a9bd583.png" group-title="Peliculas y Series",Universal HD
+http://10.1.87.3:80/tvh/tvh/781.ts
+#EXTINF:-1 timeshift="1" tvg-id="9bd101d54e12ae1b4e22cfb4db3ab392" tvg-name="Warner Channel HD" tvg-logo="http://10.1.87.3:80/images/54db108a23e59cd7c752fb69c5dfbf6c.png" group-title="Peliculas y Series",Warner Channel HD
+http://10.1.87.3:80/tvh/tvh/787.ts
+#EXTINF:-1 timeshift="1" tvg-id="d6a03f287e472bb2ecfe6500046ff7e0" tvg-name="TNT Series HD" tvg-logo="http://10.1.87.3:80/images/c3568f09e7f82c64822973a0a1e26110.png" group-title="Peliculas y Series",TNT Series HD
+http://10.1.87.3:80/tvh/tvh/768.ts
+#EXTINF:-1 timeshift="1" tvg-id="f50d93fad47d8a75ac007948b7788e8c" tvg-name="El Garage" tvg-logo="http://10.1.87.3:80/images/1d7c7589c500fc14f34a14f3251ed999.png" group-title="Peliculas y Series",El Garage
+http://10.1.87.3:80/tvh/tvh/771.ts
+#EXTINF:-1 timeshift="1" tvg-id="e6dd815e3525947d157a494376db038d" tvg-name="MTV" tvg-logo="http://10.1.87.3:80/images/0b11779d38d34a54fac5ef2e2150a67f.png" group-title="Musica",MTV
+http://10.1.87.3:80/tvh/tvh/736.ts
+#EXTINF:-1 timeshift="1" tvg-id="c8f6ccdf4263226ec06163b4fc3d974b" tvg-name="Allegro HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXeh-wQx5xGQfBCeag7lvPb_J_4QoqUUilTA&s" group-title="Musica",Allegro HD
+http://10.1.87.3:80/tvh/tvh/737.ts
+#EXTINF:-1 timeshift="1" tvg-id="38f4a8310728842e36d4c5f078a9d8e7" tvg-name="Quiero Musica" tvg-logo="http://10.1.87.3:80/images/4cb443357bf2f34bab21e198beeacd63.png" group-title="Musica",Quiero Musica
+http://10.1.87.3:80/tvh/tvh/744.ts
+#EXTINF:-1 timeshift="1" tvg-id="e967a3865513539c661ed97105595d09" tvg-name="RAI Italia" tvg-logo="http://10.1.87.3:80/images/cac3822131d3eabb60e78033ff33b2cc.png" group-title="Internacional",RAI Italia
+http://10.1.87.3:80/tvh/tvh/745.ts
+#EXTINF:-1 timeshift="1" tvg-id="e2b9d2e7c6e415c503db567b98de08ff" tvg-name="TVE" tvg-logo="http://10.1.87.3:80/images/77674aeb9ed2623bffb59157c52535ae.png" group-title="Internacional",TVE
+http://10.1.87.3:80/tvh/tvh/776.ts
+#EXTINF:-1 timeshift="1" tvg-id="9599cf06ebbbff73948c315ea1bc0f1c" tvg-name="Europa Europa HD" tvg-logo="http://10.1.87.3:80/images/38a34375fc49d5d400e41690167439d5.png" group-title="Internacional",Europa Europa HD
+http://10.1.87.3:80/tvh/tvh/701.ts
+#EXTINF:-1 timeshift="1" tvg-id="e231f3c5bb60d1a2c0d199790a1dce20" tvg-name="Galicia TV" tvg-logo="http://10.1.87.3:80/images/ece32525ce4be70c710556d8f1eac9d8.png" group-title="Internacional",Galicia TV
+http://10.1.87.3:80/tvh/tvh/719.ts
+#EXTINF:-1 timeshift="1" tvg-id="006a597fcebd519778523037c59c9b1a" tvg-name="Rural" tvg-logo="http://10.1.87.3:80/images/fe939a5b4dc7f6e4821aa73ee4b1fa65.png" group-title="Estilo-Vida",Rural
+http://10.1.87.3:80/tvh/tvh/746.ts
+#EXTINF:-1 timeshift="1" tvg-id="38f4a8310728842e36d4c5f078a9d8e7" tvg-name="Canal de la Ciudad" tvg-logo="http://10.1.87.3:80/images/791510c7742755f767e54d1c520e22d5.png" group-title="Estilo-Vida",Canal de la Ciudad
+http://10.1.87.3:80/tvh/tvh/655.ts
+#EXTINF:-1 timeshift="1" tvg-id="cf0202d51d2985957cb5575d40196edf" tvg-name="ciudad magazine" tvg-logo="http://10.1.87.3:80/images/318eedf0d25456950279ce0fb36815e7.png" group-title="Estilo-Vida",ciudad magazine
+http://10.1.87.3:80/tvh/tvh/663.ts
+#EXTINF:-1 timeshift="1" tvg-id="185de04e131c877a18acd02f36497b73" tvg-name="E! Entertainment" tvg-logo="http://10.1.87.3:80/images/68c06888a55143c577c345f612e1719e.png" group-title="Estilo-Vida",E! Entertainment
+http://10.1.87.3:80/tvh/tvh/680.ts
+#EXTINF:-1 timeshift="1" tvg-id="4dad9c7945eca4f08e5257c6f36df09b" tvg-name="El Canal  de las Estrellas" tvg-logo="http://10.1.87.3:80/images/d28eccd716d67438c6a29413d096909e.png" group-title="Estilo-Vida",El Canal  de las Estrellas
+http://10.1.87.3:80/tvh/tvh/681.ts
+#EXTINF:-1 timeshift="1" tvg-id="e03e9bb66a412e59a8506d35cac54abd" tvg-name="El Gourmet HD" tvg-logo="http://10.1.87.3:80/images/48e1a07ab6c77003617948d91924ff1f.png" group-title="Estilo-Vida",El Gourmet HD
+http://10.1.87.3:80/tvh/tvh/682.ts
+#EXTINF:-1 timeshift="1" tvg-id="9da4ecb2e5a148b1f36a9015af34d74b" tvg-name="Encuentro" tvg-logo="http://10.1.87.3:80/images/1e3fcd3a6efcd023f2400a158ef2a5d0.png" group-title="Documentales",Encuentro
+http://10.1.87.3:80/tvh/tvh/688.ts
+#EXTINF:-1 timeshift="1" tvg-id="SomosAMBA.ar" tvg-name="Somos AMBA" tvg-logo="http://10.1.87.3:80/images/9cf70f7f7e8c98c1d2e14ebd0b3dde7f.png" group-title="Estilo-Vida",Somos AMBA
+http://10.1.87.3:80/tvh/tvh/720.ts
+#EXTINF:-1 timeshift="1" tvg-id="2133b1770ec229a1b0479c6e79cd6f55" tvg-name="HTV" tvg-logo="http://10.1.87.3:80/images/52570ddf553191c1f09173e7c5e0ae2f.png" group-title="Musica",HTV
+http://10.1.87.3:80/tvh/tvh/728.ts
+#EXTINF:-1 timeshift="1" tvg-id="70cf82fc749bd76f4ef8210d41378a07" tvg-name="Lifetime" tvg-logo="http://10.1.87.3:80/images/903ba0b324c1dfa5c64ab043f327adc3.png" group-title="Estilo-Vida",Lifetime
+http://10.1.87.3:80/tvh/tvh/734.ts
+#EXTINF:-1 timeshift="1" tvg-id="66401552b102a05490939a2015f45032" tvg-name="Metro" tvg-logo="http://10.1.87.3:80/images/01103f10b3c03c4e49289eb4e831d204.png" group-title="Estilo-Vida",Metro
+http://10.1.87.3:80/tvh/tvh/735.ts
+#EXTINF:-1 timeshift="1" tvg-id="ac0251eae2fdf154368a11c1755373b1" tvg-name="Canal a" tvg-logo="http://10.1.87.3:80/images/19fd8adff5a498075ed08f267e401c99.png" group-title="Estilo-Vida",Canal a
+http://10.1.87.3:80/tvh/tvh/790.ts
+#EXTINF:-1 timeshift="1" tvg-id="Telefuturo.py" tvg-name="Telefuturo" tvg-logo="http://10.1.87.3:80/images/924f6e3c38685370b60008f76b1ab928.png" group-title="Internacional",Telefuturo
+http://10.1.87.3:80/tvh/tvh/796.ts
+#EXTINF:-1 timeshift="1" tvg-id="ABCESHD" tvg-name="Telefuturo 2" tvg-logo="http://10.1.87.3:80/images/3fcb344874398ec3980bd48e44f92024.png" group-title="Internacional",Telefuturo 2
+http://10.1.87.3:80/tvh/tvh/797.ts
